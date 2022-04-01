@@ -3,29 +3,30 @@
 }
 
 h1 {
-  margin: auto 50px;
+  margin: auto 25%;
   z-index: 2;
   display: inline-block;
 }
 
 p {
-  margin: auto 50px;
+  margin: auto 25%;
   display: inline-block;
 }
 
 .png {
   width: 100%;
+  margin: 0 0;
   display: inline-block;
   position: fixed;
-  height: auto;
+  height: 400px;
   z-index: 1;
 }
   
 .rams {
-  width: 50%;
+  width: auto;
   display: inline-block;
   position: absolute;
-  height: 750px;
-  margin: auto 50px;
+  height: 500px;
+  margin: auto 25%;
 }
     
