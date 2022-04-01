@@ -1,6 +1,6 @@
 *{
   font-family: helvetica;
-  }
+}
 
 h1 {
   margin: auto 50px;
@@ -12,16 +12,18 @@ p {
 }
 
 .png {
-    width: 100%;
-    display: inline-block;
-    position: fixed;
-    height: auto;
-    z-index: 1;
+  width: 100%;
+  display: inline-block;
+  position: fixed;
+  height: auto;
+  z-index: 1;
+}
   
-  .rams {
-    width: 50%;
-    display: inline-block;
-    position: relative;
-    height: 750px;
-  }
+.rams {
+  width: 50%;
+  display: inline-block;
+  position: relative;
+  height: 750px;
+  margin: auto 50px;
+}
     
