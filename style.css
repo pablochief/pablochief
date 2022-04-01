@@ -3,19 +3,21 @@
 }
 
 h1 {
-  margin: auto 25%;
-  z-index: 2;
+  margin: auto 15%;
+  margin-bottom: 50px;
   display: inline-block;
+  z-index: 2;
 }
 
 p {
-  margin: auto 25%;
+  margin: 5px 15%;
   display: inline-block;
 }
 
 .png {
   width: 100%;
-  margin: 0 0;
+  margin-top: 0;
+  margin-left:0;
   display: inline-block;
   position: fixed;
   height: auto;
@@ -26,6 +28,6 @@ p {
   width: auto;
   display: inline-block;
   height: 500px;
-  margin: auto 25%;
+  margin: 25px 15%;
 }
     
