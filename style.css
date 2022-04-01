@@ -5,10 +5,12 @@
 h1 {
   margin: auto 50px;
   z-index: 2;
+  display: inline-block;
 }
 
 p {
   margin: auto 50px;
+  display: inline-block;
 }
 
 .png {
@@ -22,7 +24,7 @@ p {
 .rams {
   width: 50%;
   display: inline-block;
-  position: relative;
+  position: absolute;
   height: 750px;
   margin: auto 50px;
 }
