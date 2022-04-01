@@ -2,6 +2,16 @@
   font-family: helvetica;
 }
 
+.png {
+  width: 100%;
+  margin-top: 0;
+  margin-left:0;
+  display: inline-block;
+  position: fixed;
+  height: auto;
+  z-index: 1;
+}
+
 h1 {
   margin: auto 15%;
   margin-bottom: 50px;
@@ -10,18 +20,8 @@ h1 {
 }
 
 p {
-  margin: 5px 15%;
+  margin: 15px 15%;
   display: inline-block;
-}
-
-.png {
-  width: 100%;
-  margin-top: 0;
-  margin-left:0;
-  display: inline-block;
-  position: fixed;
-  height: auto;
-  z-index: -1;
 }
   
 .rams {
