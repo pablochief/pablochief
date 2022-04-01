@@ -18,14 +18,13 @@ p {
   margin: 0 0;
   display: inline-block;
   position: fixed;
-  height: 400px;
+  height: auto;
   z-index: 1;
 }
   
 .rams {
   width: auto;
   display: inline-block;
-  position: absolute;
   height: 500px;
   margin: auto 25%;
 }
